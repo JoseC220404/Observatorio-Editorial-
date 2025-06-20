@@ -1,0 +1,1 @@
+# Inicialización del paquete principal del proyecto Django
